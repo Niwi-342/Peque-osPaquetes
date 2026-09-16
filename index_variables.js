@@ -17,3 +17,8 @@ console.log(numero3);
 
 //Para más tarde les muestro los tipos de datos, por ahora estemos con variables
 
+//Antes de todo quiero aclarar algo
+//si quieren los numeros imprimidos en forma de lista no utilizen (), si no que [] así les saldrá
+//en lista, arrays, las listas y por supuesto para más adelante lo explicaré, para la proxima lo tendre como tarea
+
+numero2 = [2, 4, 6, 4, 6]; //2, 4 etc.
