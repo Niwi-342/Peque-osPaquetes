@@ -8,7 +8,5 @@ let index = ("Hola mundo");
 console.log (index); 
 
 //const, o constante, una valor que nunca se cambia
-
-let hacer = ("1 vez"); 
-
+const my_hello_true = ("Hola verdadero!")
 //y más valores que ya mostraré  
