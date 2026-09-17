@@ -44,5 +44,6 @@ console.log(hola);
  var hola = ("Chao")
  console.log(hola); // bueno var si permite redeclarar variables, pero ambos se imprime
  // ahora en bucles y funciones y condicionales, causa ciertos problemas, ya que escapa de sus limites 
-
+ hola = ("Mi nombre");
+ console.log(hola); //no pasa nada, igual se puede cambiar de valor y todo
  //clase 2 finalizada 
