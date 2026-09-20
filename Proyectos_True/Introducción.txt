@@ -1,0 +1,3 @@
+## Introducción 
+¡Hola a todos!, en esta carpeta, se desarrollarán algunas prácticas, pero con proyectos reales, es decir : Una calculadora, un to-do list, en fin. Pero no solamente este tipo de herramientos, sino algunas ideas en mente. 
+Pero buscaré siempre, la compresión a estas ideas (se acompañaran siempre con un REAME.MD), y alguien llega a interesarse por el proyecto, con gusto, puede preguntar.
