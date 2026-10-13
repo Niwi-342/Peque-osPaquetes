@@ -11,4 +11,7 @@ Repasaré cada  parte con breves ejercicios.
 
 
 Gracias.
-Fecha: 13/10/26
+Fecha : 13/10/26
+
+Hoy tengo una pequeña modificación: En práctica 1 solo es un repaso general. De lo que aprendí de la introducción de Frecodecamp
+ya esta completo.
