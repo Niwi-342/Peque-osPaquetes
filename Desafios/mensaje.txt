@@ -1,0 +1,14 @@
+Para avisar!!!
+En este directorio empezaré a ejercitar las lecciones que he aprendido de JavaScript
+especialmente la introducción dada por el curso de freecodecamp. 
+
+Índice: 
+Variables y Tipo de Datos
+Concadenación 
+Console.log 
+
+Repasaré cada  parte con breves ejercicios. 
+
+
+Gracias.
+Fecha: 13/10/26
